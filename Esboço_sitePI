@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestão de Resíduos Químicos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #ddd;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+            background-color: white;
+            border-radius: 5px;
+        }
+        .container {
+            width: 90%;
+            margin: 0 auto;
+        }
+        .dashboard {
+            display: flex;
+            justify-content: space-between;
+        }
+        .dashboard .box {
+            width: 30%;
+            padding: 15px;
+            background-color: #eee;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            text-align: center;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Gestão de Resíduos Químicos</h1>
+    </header>
+
+    <nav>
+        <a href="#dashboard">Dashboard</a>
+        <a href="#rastreamento">Rastreamento de Resíduos</a>
+        <a href="#relatorios">Relatórios</a>
+        <a href="#conformidade">Conformidade</a>
+        <a href="#treinamento">Treinamento</a>
+    </nav>
+
+    <div class="container">
+        <section id="dashboard">
+            <h2>Dashboard</h2>
+            <div class="dashboard">
+                <div class="box">
+                    <h3>Resíduos Gerados</h3>
+                    <p>Gráfico de Resíduos</p>
+                </div>
+                <div class="box">
+                    <h3>Resíduos Reciclados</h3>
+                    <p>Gráfico de Reciclagem</p>
+                </div>
+                <div class="box">
+                    <h3>Impacto Ambiental</h3>
+                    <p>Gráfico de Impacto</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="rastreamento">
+            <h2>Rastreamento de Resíduos</h2>
+            <p>Formulário para inserção de dados de resíduos: tipo, quantidade e método de descarte.</p>
+        </section>
+
+        <section id="relatorios">
+            <h2>Relatórios</h2>
+            <p>Relatórios gerados sobre o gerenciamento dos resíduos, com dados de conformidade e impacto ambiental.</p>
+        </section>
+
+        <section id="conformidade">
+            <h2>Conformidade</h2>
+            <p>Monitoramento das regulamentações ambientais e cumprimento das normas.</p>
+        </section>
+
+        <section id="treinamento">
+            <h2>Treinamento</h2>
+            <p>Módulos de capacitação para funcionários sobre o descarte correto e seguro de resíduos químicos.</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Gestão de Resíduos Químicos. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
