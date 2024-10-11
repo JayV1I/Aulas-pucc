@@ -1,0 +1,16 @@
+Resumo do Processo de Criação de Repositório e Publicação com GitHub Pages
+
+
+Nesta atividade, explorei o Git e o GitHub para desenvolver um projeto web
+e aprender como essas ferramentas facilitam o desenvolvimento colaborativo de software.
+Primeiramente, realizei uma pesquisa sobre Git, que é uma ferramenta de controle de versão distribuído.
+O Git permite rastrear mudanças no código e facilita o trabalho de várias pessoas simultaneamente.
+Aprendi sobre comandos essenciais como clone, commit, push, pull, branch, e merge.
+As principais vantagens de usar o Git incluem o controle preciso de versões e a capacidade de trabalhar de forma offline.
+A seguir, pesquisei sobre o GitHub, que é uma plataforma de hospedagem de código que usa o Git para facilitar a colaboração.
+Além de oferecer funcionalidades como repositórios e controle de versões, o GitHub também permite a publicação de sites por meio do GitHub Pages.
+Criei uma conta no GitHub e segui os passos para criar um novo repositório, onde adicionei os arquivos do meu projeto web (HTML, CSS e JavaScript). 
+Comentei as alterações realizadas em cada arquivo e utilizei o comando commit para salvar as mudanças no repositório.
+por fim, configurei o GitHub Pages para publicar o site a partir do repositório e verifiquei que o site estava online, acessível pelo link fornecido.
+Um dos principais desafios foi entender como os commits funcionam e a sincronização entre o repositório local e o remoto, mas o processo 
+tornou-se mais claro com a prática.
